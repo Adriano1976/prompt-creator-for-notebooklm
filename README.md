@@ -25,11 +25,11 @@ Prompt gerado (exemplo):
 "Leia o seguinte artigo (insira texto/link). Resuma os 5 pontos principais, explique a relevância para pesquisadores de pós-graduação em Biologia e indique 3 referências complementares. Use linguagem técnica, mas acessível para estudantes."
 
 ## Estrutura do projeto
-- Arquivos principais: (descreva aqui os arquivos do repositório — ex.: `src/`, `app.py`, `README.md`)
-- Templates: onde ficam modelos de prompts reutilizáveis.
-- Testes/Exemplos: exemplos de uso e prompts de demonstração.
+- LICENSE — arquivo de licença do projeto. Verifique `LICENSE` na raiz para o texto completo da licença adotada.
+- README.md — documentação principal do projeto (este arquivo).
+- remixed-87160895.tsx — arquivo TypeScript/TSX presente na raiz; parece ser um componente/protótipo de interface (Front-end). Revise este arquivo para entender como o projeto pretende interagir com usuários.
 
-(Atualize esta seção com os nomes reais dos arquivos e pastas do repositório para ficar mais preciso.)
+Observação: Não foram encontradas pastas `src/`, `templates/` ou `examples/` neste commit; caso deseje, posso criar essas pastas e arquivos iniciais (por exemplo `templates/` para modelos de prompts e `examples/` para demonstrações).
 
 ## Uso (instruções rápidas)
 - Abra o código e siga as instruções do arquivo principal (por exemplo, `README` ou `docs`) para executar.
