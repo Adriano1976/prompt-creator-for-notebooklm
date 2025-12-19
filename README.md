@@ -1,2 +1,2 @@
-# Assistente de Criação de `prompts` Personalizado para Google NotebookLM
+# Assistente de Criação de `prompts` Personalizado para NotebookLM
 Assistente especialista para configurar o NotebookLM de forma personalizada para maximizar o aprendizado por meio de "prompts" personalizado. Através de algumas perguntas simples, ele cria um guia completo e um prompt otimizado para extrair o máximo das capacidades de IA do NotebookLM no tema de estudo de acordo com o grau de instrução da pessoa.
